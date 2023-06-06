@@ -1,5 +1,9 @@
 # Chit Chat
 
+
+https://github.com/vidhimittal13/chit-chat/assets/122928225/c9950370-ac4b-4a70-a250-50fafd75d84b
+
+
 Chit Chat is a full-stack chat application that leverages the power of Node.js, React.js and ChatEngine.io to provide a seamless chatting experience.
 
 ## Overview
